@@ -65,8 +65,6 @@ const getData = () => {
   btn.addEventListener("click", getGoods);
 
   getGoods();
-
-  console.log("hi");
 };
 
 getData();
